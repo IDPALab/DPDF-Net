@@ -1,0 +1,15 @@
+# Reference environment: Linux, Python 3.8.18, PyTorch with CUDA 11.8.
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+torch==2.4.1+cu118
+torchvision==0.19.1+cu118
+torchsummary==1.5.1
+einops==0.6.1
+matplotlib==3.7.2
+numpy==1.23.5
+scikit-learn==1.3.0
+scipy==1.9.1
+thop==0.1.1.post2209072238
+tqdm==4.67.1
+pandas==2.0.3
+openpyxl==3.1.5
